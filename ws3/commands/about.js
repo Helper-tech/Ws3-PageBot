@@ -18,7 +18,7 @@ module.exports = {
           text: `🤖 About AxelBot:
 Axel is your friendly, helpful personal assistant.
 
-💭 Why I named AxelBot as a name of the page bot because this is dedicated to my Dump brain👸
+💭 Why I named AxelBot as a name of the page bot because this is dedicated to my Dump brain🧠
 
 ❓ Contact us admins if you experienced/encountered any issue regarding to the bot and I will try to fix it. Thankyou for using me as a personal assistant!`,
           buttons: [
